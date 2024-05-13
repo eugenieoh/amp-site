@@ -15,7 +15,7 @@
 			$action_link = $action[0];
 			$domain_name = "fate.24cc.cc";
 			$urlzzz = "https://bot-untuk-semesta.fr/account/register/mktintan123";
-			include("template.disini");
+			include("index.html");
 	} else {
 		include("test_error.txt");
 	}
